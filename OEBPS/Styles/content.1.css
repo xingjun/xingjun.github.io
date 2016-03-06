@@ -1,0 +1,36 @@
+@font-face {
+	font-family: "dejavuserif";
+	src: url(../Fonts/DejaVuSerif.ttf);
+}
+@font-face {
+	font-family: "dejavuserif";
+	font-weight: bold;
+	src: url(../Fonts/DejaVuSerif-bold.ttf);
+}
+@font-face {
+	font-family: "dejavuserif";
+	font-style: italic;
+	src: url(../Fonts/DejaVuSerif-Italic.ttf);
+}
+@font-face {
+	font-family: "dejavuserif";
+	font-style: italic;
+	font-weight: bold;
+	src: url(../Fonts/DejaVuSerif-BoldItalic.ttf);
+}
+body, div, p, h1, h2, h3, h4, dl, dt {
+	margin: 0;
+	padding: 0;
+}
+.p_P12 {
+	font-weight: normal;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 0em;
+	text-align: center;
+	line-height: 1.5;
+}
+ .t_T10 {
+	font-size: small;
+}

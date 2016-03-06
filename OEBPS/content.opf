@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator xmlns:ns1="http://www.idpf.org/2007/opf" ns1:file-as="Moser, Milena" role="aut">Moser, Milena</dc:creator>
+    <dc:title>Montagsmenschen - Moser, M: Montagsmenschen</dc:title>
+    <dc:date>2011-12-11T23:00:00+00:00</dc:date>
+    <dc:publisher>Nagel + Kimche Verlag Ag</dc:publisher>
+    <dc:identifier id="bookid" xmlns:opf="http://www.idpf.org/2007/opf" opf:scheme="ISBN">9783312005284</dc:identifier>
+    <dc:rights>Nagel &amp; Kimche im Carl Hanser Verlag München</dc:rights>
+    <dc:source>9783312004966</dc:source>
+    <meta content="Montagsmenschen - Moser, M: Montagsmenschen" name="calibre:title_sort" />
+    <meta content="{}" name="calibre:user_categories" />
+    <meta content="{&quot;Moser, Milena&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:language>de</dc:language>
+    <meta content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#page&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;page&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;int&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;number_format&quot;: null}, &quot;name&quot;: &quot;Seitenzahl&quot;}" name="calibre:user_metadata:#page" />
+    <meta name="cover" content="img1" />
+    <meta content="0.5.3" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/pagemap.xml" id="pagemap" media-type="application/oebps-page-map+xml" />
+    <item href="Fonts/DejaVuSerif.ttf" id="font1" media-type="font/opentype" />
+    <item href="Fonts/DejaVuSerif-bold.ttf" id="font2" media-type="font/opentype" />
+    <item href="Fonts/DejaVuSerif-Italic.ttf" id="font3" media-type="font/opentype" />
+    <item href="Fonts/DejaVuSerif-BoldItalic.ttf" id="font4" media-type="font/opentype" />
+    <item href="Text/content.1.xhtml" id="content1" media-type="application/xhtml+xml" />
+    <item href="Text/content.2.xhtml" id="content2" media-type="application/xhtml+xml" />
+    <item href="Text/content.3.xhtml" id="content3" media-type="application/xhtml+xml" />
+    <item href="Text/content.4.xhtml" id="content4" media-type="application/xhtml+xml" />
+    <item href="Text/content.5.xhtml" id="content5" media-type="application/xhtml+xml" />
+    <item href="Text/content.6.xhtml" id="content6" media-type="application/xhtml+xml" />
+    <item href="Text/content.7.xhtml" id="content7" media-type="application/xhtml+xml" />
+    <item href="Text/content.8.xhtml" id="content8" media-type="application/xhtml+xml" />
+    <item href="Text/content.9.xhtml" id="content9" media-type="application/xhtml+xml" />
+    <item href="Text/content.10.xhtml" id="content10" media-type="application/xhtml+xml" />
+    <item href="Text/content.11.xhtml" id="content11" media-type="application/xhtml+xml" />
+    <item href="Text/content.12.xhtml" id="content12" media-type="application/xhtml+xml" />
+    <item href="Text/content.13.xhtml" id="content13" media-type="application/xhtml+xml" />
+    <item href="Text/content.14.xhtml" id="content14" media-type="application/xhtml+xml" />
+    <item href="Text/content.15.xhtml" id="content15" media-type="application/xhtml+xml" />
+    <item href="Text/content.16.xhtml" id="content16" media-type="application/xhtml+xml" />
+    <item href="Text/content.17.xhtml" id="content17" media-type="application/xhtml+xml" />
+    <item href="Text/content.18.xhtml" id="content18" media-type="application/xhtml+xml" />
+    <item href="Text/content.19.xhtml" id="content19" media-type="application/xhtml+xml" />
+    <item href="Text/content.20.xhtml" id="content20" media-type="application/xhtml+xml" />
+    <item href="Text/content.21.xhtml" id="content21" media-type="application/xhtml+xml" />
+    <item href="Styles/content.1.css" id="css1" media-type="text/css" />
+    <item href="Styles/content.2.css" id="css2" media-type="text/css" />
+    <item href="Styles/content.3.css" id="css3" media-type="text/css" />
+    <item href="Styles/content.4.css" id="css4" media-type="text/css" />
+    <item href="Styles/content.5.css" id="css5" media-type="text/css" />
+    <item href="Styles/content.6.css" id="css6" media-type="text/css" />
+    <item href="Styles/content.7.css" id="css7" media-type="text/css" />
+    <item href="Styles/content.8.css" id="css8" media-type="text/css" />
+    <item href="Styles/content.9.css" id="css9" media-type="text/css" />
+    <item href="Styles/content.10.css" id="css10" media-type="text/css" />
+    <item href="Styles/content.11.css" id="css11" media-type="text/css" />
+    <item href="Styles/content.12.css" id="css12" media-type="text/css" />
+    <item href="Styles/content.13.css" id="css13" media-type="text/css" />
+    <item href="Styles/content.14.css" id="css14" media-type="text/css" />
+    <item href="Styles/content.15.css" id="css15" media-type="text/css" />
+    <item href="Styles/content.16.css" id="css16" media-type="text/css" />
+    <item href="Styles/content.17.css" id="css17" media-type="text/css" />
+    <item href="Styles/content.18.css" id="css18" media-type="text/css" />
+    <item href="Styles/content.19.css" id="css19" media-type="text/css" />
+    <item href="Styles/content.20.css" id="css20" media-type="text/css" />
+    <item href="Styles/content.21.css" id="css21" media-type="text/css" />
+    <item href="Styles/l-ebook.cover.xpgt" id="xpgt1" media-type="application/adobe-page-template+xml" />
+    <item href="Styles/l-ebook.book.xpgt" id="xpgt2" media-type="application/adobe-page-template+xml" />
+    <item href="Images/10000000000001cb000002bc6fd1d39c.png" id="img1" media-type="image/png" />
+    <item href="Images/100000000000005f000000217180249a.png" id="img2" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="content1" />
+    <itemref idref="content2" />
+    <itemref idref="content3" />
+    <itemref idref="content4" />
+    <itemref idref="content5" />
+    <itemref idref="content6" />
+    <itemref idref="content7" />
+    <itemref idref="content8" />
+    <itemref idref="content9" />
+    <itemref idref="content10" />
+    <itemref idref="content11" />
+    <itemref idref="content12" />
+    <itemref idref="content13" />
+    <itemref idref="content14" />
+    <itemref idref="content15" />
+    <itemref idref="content16" />
+    <itemref idref="content17" />
+    <itemref idref="content18" />
+    <itemref idref="content19" />
+    <itemref idref="content20" />
+    <itemref idref="content21" />
+  </spine>
+  <guide>
+    <reference href="Text/content.1.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

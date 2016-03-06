@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+     
+      <meta content="1" name="dtb:depth"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>Montagsmenschen</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="navpoint-1" playOrder="1">
+         <navLabel>
+            <text>Cover</text>
+         </navLabel>
+         <content src="Text/content.1.xhtml#navpoint.d15e123"/>
+      </navPoint>
+      <navPoint id="navpoint-2" playOrder="2">
+         <navLabel>
+            <text>Titel</text>
+         </navLabel>
+         <content src="Text/content.3.xhtml#navpoint.d15e143"/>
+      </navPoint>
+      <navPoint id="navpoint-3" playOrder="3">
+         <navLabel>
+            <text>Widmung / Impressum</text>
+         </navLabel>
+         <content src="Text/content.4.xhtml#navpoint.d15e164"/>
+      </navPoint>
+      <navPoint id="navpoint-4" playOrder="4">
+         <navLabel>
+            <text>1. Teil: Was zum Teufel tun wir hier?</text>
+         </navLabel>
+         <content src="Text/content.5.xhtml#navpoint.d15e208"/>
+         <navPoint id="navpoint-5" playOrder="5">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.6.xhtml#navpoint.d15e282"/>
+         </navPoint>
+         <navPoint id="navpoint-6" playOrder="6">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.6.xhtml#navpoint.d15e356"/>
+         </navPoint>
+         <navPoint id="navpoint-7" playOrder="7">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.6.xhtml#navpoint.d15e439"/>
+         </navPoint>
+         <navPoint id="navpoint-8" playOrder="8">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.6.xhtml#navpoint.d15e522"/>
+         </navPoint>
+         <navPoint id="navpoint-9" playOrder="9">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.7.xhtml#navpoint.d15e718"/>
+         </navPoint>
+         <navPoint id="navpoint-10" playOrder="10">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.7.xhtml#navpoint.d15e804"/>
+         </navPoint>
+         <navPoint id="navpoint-11" playOrder="11">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.7.xhtml#navpoint.d15e945"/>
+         </navPoint>
+         <navPoint id="navpoint-12" playOrder="12">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.7.xhtml#navpoint.d15e1075"/>
+         </navPoint>
+         <navPoint id="navpoint-13" playOrder="13">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.8.xhtml#navpoint.d15e1273"/>
+         </navPoint>
+         <navPoint id="navpoint-14" playOrder="14">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.8.xhtml#navpoint.d15e1435"/>
+         </navPoint>
+         <navPoint id="navpoint-15" playOrder="15">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.8.xhtml#navpoint.d15e1551"/>
+         </navPoint>
+         <navPoint id="navpoint-16" playOrder="16">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.9.xhtml#navpoint.d15e1667"/>
+         </navPoint>
+         <navPoint id="navpoint-17" playOrder="17">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.9.xhtml#navpoint.d15e1769"/>
+         </navPoint>
+         <navPoint id="navpoint-18" playOrder="18">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.9.xhtml#navpoint.d15e2043"/>
+         </navPoint>
+         <navPoint id="navpoint-19" playOrder="19">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.9.xhtml#navpoint.d15e2107"/>
+         </navPoint>
+         <navPoint id="navpoint-20" playOrder="20">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.10.xhtml#navpoint.d15e2355"/>
+         </navPoint>
+         <navPoint id="navpoint-21" playOrder="21">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.10.xhtml#navpoint.d15e2480"/>
+         </navPoint>
+         <navPoint id="navpoint-22" playOrder="22">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.10.xhtml#navpoint.d15e2765"/>
+         </navPoint>
+         <navPoint id="navpoint-23" playOrder="23">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.11.xhtml#navpoint.d15e2914"/>
+         </navPoint>
+         <navPoint id="navpoint-24" playOrder="24">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.11.xhtml#navpoint.d15e3041"/>
+         </navPoint>
+         <navPoint id="navpoint-25" playOrder="25">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.11.xhtml#navpoint.d15e3114"/>
+         </navPoint>
+         <navPoint id="navpoint-26" playOrder="26">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.11.xhtml#navpoint.d15e3251"/>
+         </navPoint>
+         <navPoint id="navpoint-27" playOrder="27">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.12.xhtml#navpoint.d15e3368"/>
+         </navPoint>
+         <navPoint id="navpoint-28" playOrder="28">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.12.xhtml#navpoint.d15e3677"/>
+         </navPoint>
+         <navPoint id="navpoint-29" playOrder="29">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.12.xhtml#navpoint.d15e3880"/>
+         </navPoint>
+         <navPoint id="navpoint-30" playOrder="30">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.12.xhtml#navpoint.d15e3950"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-31" playOrder="31">
+         <navLabel>
+            <text>2. Teil: Wir atmen mit dem Herzen.</text>
+         </navLabel>
+         <content src="Text/content.12.xhtml#navpoint.d15e4122"/>
+         <navPoint id="navpoint-32" playOrder="32">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.13.xhtml#navpoint.d15e4184"/>
+         </navPoint>
+         <navPoint id="navpoint-33" playOrder="33">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.14.xhtml#navpoint.d15e4355"/>
+         </navPoint>
+         <navPoint id="navpoint-34" playOrder="34">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.14.xhtml#navpoint.d15e4520"/>
+         </navPoint>
+         <navPoint id="navpoint-35" playOrder="35">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.14.xhtml#navpoint.d15e4686"/>
+         </navPoint>
+         <navPoint id="navpoint-36" playOrder="36">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.14.xhtml#navpoint.d15e4892"/>
+         </navPoint>
+         <navPoint id="navpoint-37" playOrder="37">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.15.xhtml#navpoint.d15e5113"/>
+         </navPoint>
+         <navPoint id="navpoint-38" playOrder="38">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.15.xhtml#navpoint.d15e5249"/>
+         </navPoint>
+         <navPoint id="navpoint-39" playOrder="39">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.15.xhtml#navpoint.d15e5315"/>
+         </navPoint>
+         <navPoint id="navpoint-40" playOrder="40">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.15.xhtml#navpoint.d15e5464"/>
+         </navPoint>
+         <navPoint id="navpoint-41" playOrder="41">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.16.xhtml#navpoint.d15e5619"/>
+         </navPoint>
+         <navPoint id="navpoint-42" playOrder="42">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.16.xhtml#navpoint.d15e5766"/>
+         </navPoint>
+         <navPoint id="navpoint-43" playOrder="43">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.16.xhtml#navpoint.d15e5922"/>
+         </navPoint>
+         <navPoint id="navpoint-44" playOrder="44">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.16.xhtml#navpoint.d15e6104"/>
+         </navPoint>
+         <navPoint id="navpoint-45" playOrder="45">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.17.xhtml#navpoint.d15e6436"/>
+         </navPoint>
+         <navPoint id="navpoint-46" playOrder="46">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.17.xhtml#navpoint.d15e6570"/>
+         </navPoint>
+         <navPoint id="navpoint-47" playOrder="47">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.17.xhtml#navpoint.d15e6840"/>
+         </navPoint>
+         <navPoint id="navpoint-48" playOrder="48">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.17.xhtml#navpoint.d15e7049"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-49" playOrder="49">
+         <navLabel>
+            <text>3. Teil: Wir sind nicht allein.</text>
+         </navLabel>
+         <content src="Text/content.17.xhtml#navpoint.d15e7220"/>
+         <navPoint id="navpoint-50" playOrder="50">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.18.xhtml#navpoint.d15e7283"/>
+         </navPoint>
+         <navPoint id="navpoint-51" playOrder="51">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.18.xhtml#navpoint.d15e7515"/>
+         </navPoint>
+         <navPoint id="navpoint-52" playOrder="52">
+            <navLabel>
+               <text>Ted</text>
+            </navLabel>
+            <content src="Text/content.18.xhtml#navpoint.d15e7622"/>
+         </navPoint>
+         <navPoint id="navpoint-53" playOrder="53">
+            <navLabel>
+               <text>Marie</text>
+            </navLabel>
+            <content src="Text/content.18.xhtml#navpoint.d15e7784"/>
+         </navPoint>
+         <navPoint id="navpoint-54" playOrder="54">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.19.xhtml#navpoint.d15e8003"/>
+         </navPoint>
+         <navPoint id="navpoint-55" playOrder="55">
+            <navLabel>
+               <text>Poppy</text>
+            </navLabel>
+            <content src="Text/content.19.xhtml#navpoint.d15e8066"/>
+         </navPoint>
+         <navPoint id="navpoint-56" playOrder="56">
+            <navLabel>
+               <text>Nevada</text>
+            </navLabel>
+            <content src="Text/content.20.xhtml#navpoint.d15e8271"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-57" playOrder="57">
+         <navLabel>
+            <text>Danksagung</text>
+         </navLabel>
+         <content src="Text/content.20.xhtml#navpoint.d15e8341"/>
+      </navPoint>
+      <navPoint id="navpoint-58" playOrder="58">
+         <navLabel>
+            <text>Quellennachweis</text>
+         </navLabel>
+         <content src="Text/content.20.xhtml#navpoint.d15e8371"/>
+      </navPoint>
+      <navPoint id="navpoint-59" playOrder="59">
+         <navLabel>
+            <text>Autorin</text>
+         </navLabel>
+         <content src="Text/content.21.xhtml#navpoint.d15e8394"/>
+      </navPoint>
+   </navMap>
+</ncx>

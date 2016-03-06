@@ -1,0 +1,123 @@
+@font-face {
+	font-family: "dejavuserif";
+	src: url(../Fonts/DejaVuSerif.ttf);
+}
+@font-face {
+	font-family: "dejavuserif";
+	font-weight: bold;
+	src: url(../Fonts/DejaVuSerif-bold.ttf);
+}
+@font-face {
+	font-family: "dejavuserif";
+	font-style: italic;
+	src: url(../Fonts/DejaVuSerif-Italic.ttf);
+}
+@font-face {
+	font-family: "dejavuserif";
+	font-style: italic;
+	font-weight: bold;
+	src: url(../Fonts/DejaVuSerif-BoldItalic.ttf);
+}
+body {
+	margin-left: 0.5em;
+	margin-right: 1.5em;
+	padding: 0;
+	font-family: dejavuserif;
+}
+div, p, h1, h2, h3, h4, dl, dt {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border: 1px solid transparent;
+	border-collapse: collapse;
+}
+td {
+	border: 1px solid transparent;
+	border-collapse: collapse;
+	vertical-align: top;
+	padding: 0.1em;
+}
+ol, ul {
+	margin: 0;
+	padding: 0;
+	padding-left: 2em;
+}
+li {
+	display: list-item;
+	min-height: 1em;
+	clear: both;
+}
+dd {
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+}
+.p_P11 {
+	font-weight: normal;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 0em;
+	line-height: 1.5;
+}
+ .p_P12 {
+	font-weight: normal;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 0em;
+	text-align: center;
+	line-height: 1.5;
+}
+ .p_P19 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 0em;
+	line-height: 1.5;
+}
+ .p_P20 {
+	font-style: italic;
+	font-weight: normal;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 0em;
+	text-align: center;
+	line-height: 1.5;
+}
+ .p_P27 {
+	font-weight: bold;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 1em;
+	line-height: 1.5;
+}
+ .p_P28 {
+	font-weight: normal;
+	font-size: medium;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-indent: 1em;
+	line-height: 1.5;
+}
+ .t_T7 {
+	font-style: italic;
+}
+ .t_T10 {
+	font-size: small;
+}
+ .p_l-h2 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: large;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	text-align: center;
+	line-height: 1.5;
+}
